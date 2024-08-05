@@ -31,7 +31,7 @@ jobs:
     - run:
         name: Build package
         command: |
-          gbp buildpackage
+          gbp buildpackage --no-sign
 
     ## Upload
     - store_artifacts:
