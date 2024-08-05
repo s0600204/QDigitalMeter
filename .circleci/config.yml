@@ -18,7 +18,6 @@ jobs:
     - run:
         name: Switch branch
         command: |
-          git checkout show
           git checkout debian
 
     ## Install build dependencies
