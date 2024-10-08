@@ -1,3 +1,9 @@
+qdigitalmeter (0.1.0+s0600204.1) unstable; urgency=medium
+
+  * Work-around packaging bug
+
+ -- s0600204 <dev@s0600204>  Tue, 08 Oct 2024 21:40:00 +0100
+
 qdigitalmeter (0.1.0) unstable; urgency=medium
 
   [ Francesco Ceruti ]
